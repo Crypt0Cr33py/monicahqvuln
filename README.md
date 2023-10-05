@@ -20,3 +20,6 @@
 </svg>
 
 ```
+- Access the uploaded file
+
+![image](https://github.com/Crypt0Cr33py/monicahqvuln/assets/108440914/71f6ec20-148b-4973-ac42-83ae7a5c0ae6)
